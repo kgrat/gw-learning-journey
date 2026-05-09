@@ -68,9 +68,7 @@ Weekly updates — what I studied, what clicked, what confused me.
 - [ ] General relativity foundations complete
 - [ ] Working SGWB SNR tool on GitHub
 - [ ] LaTeX research note on CE vs ET sensitivity to early universe signals
-- [ ] Contact established with Dr. Mayuresh Surnis (IISER Bhopal / InPTA)
-- [ ] Contact established with Prof. Parameswaran Ajith (ICTS Bangalore)
-- [ ] LIGO SURF / DAAD application personal statement drafted
+- [ ] Successful Outreach
 
 ---
 
