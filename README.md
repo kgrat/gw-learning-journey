@@ -1,7 +1,7 @@
 # Gravitational Wave Learning Journey 🌌
 
 > Documenting a 12-week self-study journey into gravitational wave physics 
-> and early universe cosmology — building towards research contributions 
+> and early universe cosmology, building towards research contributions 
 > in next-generation GW astronomy (Cosmic Explorer / Einstein Telescope).
 
  
